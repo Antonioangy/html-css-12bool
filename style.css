@@ -3,28 +3,33 @@
     padding: 0 auto;
     box-sizing: border-box;
   }
-  
-  .green{
+.esercizio{
+    margin: 30px;
+}
+
+.green{
     background-color: green;
-  }
-  
-  .blue {
+}
+
+.blue {
     background-color: blue;
     height: 50px;
     border: 1px solid white;
     display: inline-block;
-    
-  }
-  .green{
+
+}
+.green{
     background-color: rgb(58, 206, 58);
     height: 35px;
     border: 1px solid white;
     display: inline-block;
-    
-  }
-  
-  
-  p{
+
+}
+
+
+p{
     text-align: center;
     color: white;
-  }
+}
+
+  
