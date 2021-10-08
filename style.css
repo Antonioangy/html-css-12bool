@@ -23,12 +23,6 @@
     
   }
   
-  /* Selettore Avanzato per le colonne dell'ultima row*/
-  
-  .container:nth-child(5)> .col-6 > .container, .container:nth-child(5)> .col-6:nth-child(2)> .container{
-    padding: 8px;
-  }
-  
   
   p{
     text-align: center;
